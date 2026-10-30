@@ -1,0 +1,16 @@
+# Environment variables and secrets
+.env
+.env.*
+*.key
+secrets.py
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.venv/
+
+# Logs
+*.log
